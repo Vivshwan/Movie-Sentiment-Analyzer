@@ -14,7 +14,13 @@ A machine learning model that classifies IMDB movie reviews as **POSITIVE** or *
 - ✅ Real-time sentiment prediction for any review
 - ✅ High accuracy with efficient processing
 
+
+## ⚠️ Before Running
+1. Download dataset from: [Kaggle Link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+2. Save as `IMDB Dataset.csv` in project folder
+
 ## 📋 Prerequisites
 ```bash
 pip install -r requirements.txt
 Python 3.7+
+Run `python main.py`
